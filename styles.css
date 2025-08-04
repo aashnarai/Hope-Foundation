@@ -1,0 +1,86 @@
+    .custom-navbar {
+  background: transparent !important; 
+  transition: background-color 0.3s ease;
+  padding: 15px 0;
+}
+
+.custom-navbar .nav-link,
+.custom-navbar .navbar-brand {
+  color:black;
+}
+
+.custom-navbar .nav-link:hover {
+  color: orange; 
+}
+
+    body {
+          padding-top: 0;
+  margin: 0;
+
+    }
+    .hero {
+
+  font-weight:bolder;
+   font-style: normal;
+ height: 100vh; 
+  background-image: url("hope1.jpg");
+  background-size: cover;          
+  background-position: center;    
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  text-align: center;     
+  padding: 0 20px;         
+  color: white;    
+  
+ }
+
+    .img{
+        height:500px;
+    }
+    .hero h1 {
+        font-family: "Libertinus Sans", sans-serif;
+        font-weight: bold;
+        font-size: 70px;
+        padding: 20px;
+
+    }
+
+    .par{
+                 color: #FAF9F9;
+
+        font-size: 30px;
+        font-weight: normal;
+    }
+    .about{
+        background-color: #FAD59A;
+    padding: 50px;
+    }
+    .card {
+  border: none;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+    .bold{
+         font-family: "Libertinus Sans", sans-serif;
+  font-weight: 1000;
+  font-style: normal;
+  font-size: 50px;
+    }
+    .bold2{
+            font-family: "Libertinus Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+    }
+
+    footer {
+      background-color: #343a40;
+      color: white;
+      padding: 20px 0;
+    }
