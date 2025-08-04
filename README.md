@@ -2,7 +2,7 @@
 
 A simple, responsive website built for the Hope Foundation, a non-profit organization dedicated to empowering underprivileged communities through education, healthcare, and community development.
 
-# 🚀 Features
+## 🚀 Features
 
 - **Home Page**  
   Beautiful hero section with a background image, welcoming users with the foundation’s mission.
